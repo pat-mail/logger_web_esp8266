@@ -6,8 +6,8 @@
 #include <Wire.h>
 
 // --- Configuration WiFi (AP) ---
-const char* ssid = "Felix_UPMR";
-const char* password = "12345azer!";
+const char* ssid = ".....";
+const char* password = "......";
 
 // --- Configuration utilisateurs ---
 struct User {
